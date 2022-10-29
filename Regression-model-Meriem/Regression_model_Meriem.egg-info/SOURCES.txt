@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+Regression-model-Meriem/Regression-model-meriem.py
+Regression-model-Meriem/__init__.py
+Regression_model_Meriem.egg-info/PKG-INFO
+Regression_model_Meriem.egg-info/SOURCES.txt
+Regression_model_Meriem.egg-info/dependency_links.txt
+Regression_model_Meriem.egg-info/requires.txt
+Regression_model_Meriem.egg-info/top_level.txt
